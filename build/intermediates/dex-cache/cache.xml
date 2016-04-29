@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\ashley.stalvig\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\ashley.stalvig\Desktop\CSS\Spring 2016\Mobile Programming\Module10\SQLite\2nd Attempt\AndroidITCSQLiteExample-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_24b533eb4fc5fd3c1b4430eedb88f80ea344bbbd.jar" />
+    </item>
+
+</items>

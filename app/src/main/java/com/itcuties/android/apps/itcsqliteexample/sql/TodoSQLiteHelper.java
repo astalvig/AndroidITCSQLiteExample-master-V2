@@ -13,8 +13,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class TodoSQLiteHelper extends SQLiteOpenHelper {
 
 	public TodoSQLiteHelper(Context context) {
-		// Databse: todos_db, Version: 2
-		super(context, "todos_db", null, 2);
+		// Databse: todos_db, Version: 3
+		super(context, "todos_db", null, 3);
 	}
 
 	/**
