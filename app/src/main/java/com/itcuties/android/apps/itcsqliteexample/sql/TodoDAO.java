@@ -81,7 +81,8 @@ public class TodoDAO {
 	    	// Move to the next result
 	    	cursor.moveToNext();
 	    }
-		
+
+		//cursor.close();
 		return todoList;
 	}
 	
