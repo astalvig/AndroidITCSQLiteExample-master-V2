@@ -27,7 +27,7 @@ public class TodoDAO {
 	
 	// Close the db
 	public void close() {
-		db.close();
+		dbHelper.close();
 	}
 	
 	/**
@@ -61,9 +61,10 @@ public class TodoDAO {
 		
 		// Name of the columns we want to select
 		String[] tableColumns = new String[] {"_id","todo","priority"};
-		
+		String orderBy = "priority" + " ASC";
+
 		// Query the database
-		Cursor cursor = db.query("todos", tableColumns, null, null, null, null, null);
+		Cursor cursor = db.query("todos", tableColumns, null, null, null, null, orderBy);
 		cursor.moveToFirst();
 		
 		// Iterate the results

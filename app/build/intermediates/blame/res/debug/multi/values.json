@@ -284,6 +284,148 @@
         ]
     },
     {
+        "outputFile": "C:\\Users\\ashley.stalvig\\Desktop\\Unit 10\\AndroidITCSQLiteExample-master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Users\\ashley.stalvig\\Desktop\\Unit 10\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 53,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 45,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "C:\\Users\\ashley.stalvig\\Desktop\\Unit 10\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 45,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 51,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "C:\\Users\\ashley.stalvig\\Desktop\\Unit 10\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 51,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 52,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\ashley.stalvig\\Desktop\\Unit 10\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 47,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "C:\\Users\\ashley.stalvig\\Desktop\\Unit 10\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 47,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "C:\\Users\\ashley.stalvig\\Desktop\\Unit 10\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "C:\\Users\\ashley.stalvig\\Desktop\\Unit 10\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\ashley.stalvig\\Desktop\\CSS\\Spring 2016\\Mobile Programming\\Module10\\2nd Attempt\\AndroidITCSQLiteExample-master (3)\\AndroidITCSQLiteExample-master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
