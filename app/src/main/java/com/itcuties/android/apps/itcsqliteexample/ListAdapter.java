@@ -39,7 +39,8 @@ public class ListAdapter extends ArrayAdapter<Todo> {
         TextView todoText = (TextView) rowView.findViewById(R.id.todoText);
 		TextView todoPriority = (TextView) rowView.findViewById(R.id.todoPriority);
         todoText.setText(todoList.get(position).getText());
-		todoPriority.setText(todoList.get(position).getPriority());
+		//todoPriority.setText(todoList.get(position).getPriority());
+		todoPriority.setText(String.valueOf(todoList.get(position).getPriority()));
          
         return rowView;
 	}
